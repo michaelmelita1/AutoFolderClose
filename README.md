@@ -13,4 +13,4 @@ This project is licensed under a custom License - see the [LICENSE.md](LICENSE.m
 
 ## Acknowledgments
 
-* Thanks iKilledApple
+* Thanks iKilledAppl3
