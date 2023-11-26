@@ -5,7 +5,7 @@ No problem! With AutoFolderClose you can now have your folder automatically clos
 This works on iOS 15+!
 
 # Get the tweak here on my repo!
-* [AutoFolderClose][(https://michaelmelita1.github.io)] - Get it FREE!
+* https://michaelmelita1.github.io - Get it FREE!
 
 ## License
 
