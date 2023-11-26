@@ -1,6 +1,6 @@
 Package: com.ikilledappl3.autofolderclose-rootless
 Name: AutoFolderClose
-Depends: mobilesubstrate, ws.hbang.common, firmware (>= 15.0)
+Depends: mobilesubstrate, firmware (>= 15.0)
 Version: 1.1
 Architecture: iphoneos-arm64
 Description: Closes your folder when you launch an application.
