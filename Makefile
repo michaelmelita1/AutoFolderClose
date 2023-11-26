@@ -1,7 +1,7 @@
+FINALPACKAGE=1
+THEOS_PACKAGE_SCHEME=rootless
 ARCHS = arm64 arm64e
-SDK = iPhoneOS12.4
-FINALPACKAGE = 1
-THEOS_DEVICE_IP = 192.168.1.215
+TARGET := iphone:clang:latest
 
 include $(THEOS)/makefiles/common.mk
 
